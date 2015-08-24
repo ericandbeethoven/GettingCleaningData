@@ -8,7 +8,7 @@ This is an R Markdown document CodeBook that describes the R script, source data
 <b>Source Data</b>
 The source data and original dataset description can be found at
 
-<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>.
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 <b>run_analysis.R</b>
 
