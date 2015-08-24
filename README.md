@@ -17,5 +17,5 @@ Creates a second, independent tidy data set with the average of each variable fo
 
 This repository provides a script (run_analysis.R), a tidy dataset (tidymeans.txt), and a codebook (CodeBook.md).
 
-[CodeBook.md](https://github.com/ericandbeethoven/GettingCleaningData/edit/master/CodeBook.md)
+[CodeBook.md](https://github.com/ericandbeethoven/GettingCleaningData/blob/master/CodeBook.md)
 
