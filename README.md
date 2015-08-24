@@ -16,3 +16,6 @@ Appropriately labels the data set with descriptive activity names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 This repository provides a script (run_analysis.R), a tidy dataset (tidymeans.txt), and a codebook (CodeBook.md).
+
+[CodeBook.md](https://github.com/ericandbeethoven/GettingCleaningData/edit/master/CodeBook.md)
+
